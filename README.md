@@ -1,6 +1,6 @@
 # blog
 
-###经典优质github项目： 
+###经典优质github项目：  
 汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典架构案例、数据库、常用三方库、线上运维等知识  
 https://github.com/aalansehaiyang/technology-talk  
 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构  
